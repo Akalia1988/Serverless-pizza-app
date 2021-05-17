@@ -57,10 +57,14 @@ which will provide us with AJAX calls to invoke the API. I'll go to the API Gate
 We will choose our platform as JavaScript and generate the SDK. If you unzip this package, it includes all the libraries and object definitions necessary to make calls to the API. 
 The README file has instructions on which third-party scripts to include and how to initiate an API Gateway client.
 
-We can host the host our static website on S3 do some styling and yeah our pizza website is ready for online orders.
+We can host the host our static website on S3 or do some styling and yeah our pizza website is ready for online orders.
 
 
-![image](https://user-images.githubusercontent.com/58148717/118534354-bf30be80-b70e-11eb-8c6c-19b99b17bc98.png)
+![image](https://user-images.githubusercontent.com/58148717/118539027-88f63d80-b714-11eb-9ab1-8f19a749d3a8.png)
+
+
+
+
 
 
 
